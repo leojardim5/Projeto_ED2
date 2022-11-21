@@ -31,8 +31,6 @@ Gabriel - Programador/Desenvolvedor
 Santiago - Programador/Desenvolvedor
 Leonardo - Documentação
 
--Informações do projeto no WIki
-
 -Obj do trabalho:
 Esse estudo tem como objetivo organizar e analisar os dados sobre demissão de diversas empresas de tecnologia em todo o mundo no período de 2020 até 2022. Esses dados serão organizados na estrutura de grafos e a partir disso pretende-se buscar correlações entre segmento de mercado, região do globo e demissões dentre as mais de mil empresas do banco de dados.
 
