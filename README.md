@@ -31,10 +31,10 @@ A recente pandemia da COVID-19 afetou profundamente a economia global levando mi
  Santiago - Programador/Desenvolvedor
  Leonardo - Documentação
 
--Obj do trabalho:
+-Objetivo do trabalho:
 Esse estudo tem como objetivo organizar e analisar os dados sobre demissão de diversas empresas de tecnologia em todo o mundo no período de 2020 até 2022. Esses dados serão organizados na estrutura de grafos e a partir disso pretende-se buscar correlações entre segmento de mercado, região do globo e demissões dentre as mais de mil empresas do banco de dados.
 
--Escopo 
+-Escopo: 
 Empresas de tecnologia e demissões de seus funcionários desde o início da pandemia (11 de março de 2020) até os dias atuais.
 
 - Necessidade:
